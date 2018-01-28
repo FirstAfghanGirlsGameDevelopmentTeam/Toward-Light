@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9835b807c928ecd4aad989e3d8d951c6
+timeCreated: 1516131867
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hand Faces St
+  fontNames:
+  - Hand Faces St
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

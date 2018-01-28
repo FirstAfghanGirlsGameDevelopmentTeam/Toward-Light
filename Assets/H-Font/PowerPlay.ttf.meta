@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a4ff821283b70be44b905f5ae949fa37
+timeCreated: 1517116034
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PowerPlay
+  fontNames:
+  - PowerPlay
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
